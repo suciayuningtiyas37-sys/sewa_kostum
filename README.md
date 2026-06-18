@@ -1,4 +1,5 @@
 # sewa_kostum
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Costume rental application project built with Flutter framework.
+>>>>>>> c41ff89365a1a4c220c0ce48db49368ff4947de6
